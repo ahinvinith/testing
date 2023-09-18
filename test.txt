@@ -9,3 +9,4 @@ make some more commits
 ha
 create a new comit
 testing my dashboard
+testing my talos dashboard
