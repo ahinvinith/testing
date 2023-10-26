@@ -21,3 +21,4 @@ check datas
 check datas again
 trigger datas
 check restart
+chekc
