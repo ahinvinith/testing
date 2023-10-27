@@ -22,3 +22,4 @@ check datas again
 trigger datas
 check restart
 chekc
+check azure
