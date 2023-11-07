@@ -24,3 +24,4 @@ check restart
 chekc
 check azure
 trigger datas
+trigger data
