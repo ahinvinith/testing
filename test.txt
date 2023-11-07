@@ -24,5 +24,8 @@ check restart
 chekc
 check azure
 trigger datas
+i am hungry
+tri
 trigger data
 I am hungry
+
