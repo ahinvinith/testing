@@ -29,3 +29,4 @@ tri
 trigger data
 I am hungry
 new datas
+new clickhouse
