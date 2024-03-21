@@ -40,3 +40,4 @@ need more datas
 check data
 created a new cluster
 fixed error
+check dashboard
