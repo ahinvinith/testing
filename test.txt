@@ -35,6 +35,7 @@ ready for demo
 check the url
 check datas
 new cluster dashboard
+check aws demo
 ne webhook url added
 need more datas
 check data
